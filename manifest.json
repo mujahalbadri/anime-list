@@ -1,0 +1,23 @@
+{
+    "name": "Anime List",
+    "short_name": "Anime List",
+    "description": "List Update Anime and Manga",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#1E88E5",
+    "theme_color": "#1E88E5",
+    "icons": [
+        {
+            "src": "icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}
